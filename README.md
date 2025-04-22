@@ -9,6 +9,7 @@ Steps of the task performed
   2. Total Profit
   3. Total Quantity
   4. Total Discount
+     
 **Step 2: Regionwise sales is plotted using a pie-chart**
 **step 3: Top 5 Customers are identified regionwise**
 **step 4: Categorywise Sales and Profit is plotted**
