@@ -1,6 +1,9 @@
 # Superstore_dashboard
+
 Superstore_dashboard Day 2 task
+
 Steps of the task performed
+
 **Step 1: 4 KPI are selected**  
   1. Total Sales
   2. Total Profit
